@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey there, what's up?
+
+## What I'm up to 
+
+* TODO Do the thing
+* TODO Do the thing again
 
 <!--
 **graffbagTEST/graffbagTEST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
